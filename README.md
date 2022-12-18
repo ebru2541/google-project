@@ -2,10 +2,10 @@
 ## Project Skeleton 
 
 ```
-002-google-landing-page (folder)
+-google-landing-page 
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Definition of the project)   
+|----readme.md               
+|----images           
         |----appicon.png   
         |----gfavicon.png
 		|----google_microphone.png
